@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bankdomokosalexprojekt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c21101db1c6950fb147c31b61f789d81c04574a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bankdomokosalexprojekt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bankdomokosalexprojekt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

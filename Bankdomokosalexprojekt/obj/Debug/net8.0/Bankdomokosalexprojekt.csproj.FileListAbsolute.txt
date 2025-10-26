@@ -12,3 +12,4 @@ C:\Users\hppav\source\repos\Bankdomokosalexprojekt\Bankdomokosalexprojekt\obj\De
 C:\Users\hppav\source\repos\Bankdomokosalexprojekt\Bankdomokosalexprojekt\obj\Debug\net8.0\Bankdomokosalexprojekt.pdb
 C:\Users\hppav\source\repos\Bankdomokosalexprojekt\Bankdomokosalexprojekt\obj\Debug\net8.0\Bankdomokosalexprojekt.genruntimeconfig.cache
 C:\Users\hppav\source\repos\Bankdomokosalexprojekt\Bankdomokosalexprojekt\obj\Debug\net8.0\ref\Bankdomokosalexprojekt.dll
+C:\Users\hppav\source\repos\Bankdomokosalexprojekt\Bankdomokosalexprojekt\obj\Debug\net8.0\Bankdomokosalexprojekt.sourcelink.json
