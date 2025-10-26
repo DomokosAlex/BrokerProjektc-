@@ -1,0 +1,14 @@
+C:\Users\hppav\source\repos\Bankdomokosalexprojekt\Bankdomokosalexprojekt\bin\Debug\net8.0\Bankdomokosalexprojekt.exe
+C:\Users\hppav\source\repos\Bankdomokosalexprojekt\Bankdomokosalexprojekt\bin\Debug\net8.0\Bankdomokosalexprojekt.deps.json
+C:\Users\hppav\source\repos\Bankdomokosalexprojekt\Bankdomokosalexprojekt\bin\Debug\net8.0\Bankdomokosalexprojekt.runtimeconfig.json
+C:\Users\hppav\source\repos\Bankdomokosalexprojekt\Bankdomokosalexprojekt\bin\Debug\net8.0\Bankdomokosalexprojekt.dll
+C:\Users\hppav\source\repos\Bankdomokosalexprojekt\Bankdomokosalexprojekt\bin\Debug\net8.0\Bankdomokosalexprojekt.pdb
+C:\Users\hppav\source\repos\Bankdomokosalexprojekt\Bankdomokosalexprojekt\obj\Debug\net8.0\Bankdomokosalexprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hppav\source\repos\Bankdomokosalexprojekt\Bankdomokosalexprojekt\obj\Debug\net8.0\Bankdomokosalexprojekt.AssemblyInfoInputs.cache
+C:\Users\hppav\source\repos\Bankdomokosalexprojekt\Bankdomokosalexprojekt\obj\Debug\net8.0\Bankdomokosalexprojekt.AssemblyInfo.cs
+C:\Users\hppav\source\repos\Bankdomokosalexprojekt\Bankdomokosalexprojekt\obj\Debug\net8.0\Bankdomokosalexprojekt.csproj.CoreCompileInputs.cache
+C:\Users\hppav\source\repos\Bankdomokosalexprojekt\Bankdomokosalexprojekt\obj\Debug\net8.0\Bankdomokosalexprojekt.dll
+C:\Users\hppav\source\repos\Bankdomokosalexprojekt\Bankdomokosalexprojekt\obj\Debug\net8.0\refint\Bankdomokosalexprojekt.dll
+C:\Users\hppav\source\repos\Bankdomokosalexprojekt\Bankdomokosalexprojekt\obj\Debug\net8.0\Bankdomokosalexprojekt.pdb
+C:\Users\hppav\source\repos\Bankdomokosalexprojekt\Bankdomokosalexprojekt\obj\Debug\net8.0\Bankdomokosalexprojekt.genruntimeconfig.cache
+C:\Users\hppav\source\repos\Bankdomokosalexprojekt\Bankdomokosalexprojekt\obj\Debug\net8.0\ref\Bankdomokosalexprojekt.dll
